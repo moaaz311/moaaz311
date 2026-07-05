@@ -77,11 +77,13 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaaz311&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz311&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" height="195" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moaaz311&theme=dark" alt="GitHub Profile Summary" />
 </div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz311&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777777" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz311&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
