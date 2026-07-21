@@ -74,19 +74,6 @@
 
 <br/>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moaaz311&theme=dark" alt="GitHub Profile Summary" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaaz311&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 <div align="center">
   <i>Always learning and looking for the next data challenge! 🚀</i>
