@@ -1,51 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Moaaz%20Achraf&fontSize=80&fontAlignY=35&desc=Junior%20BI%20Developer%20|%20Data%20Analyst&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Moaaz%20Achraf&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Junior%20BI%20Developer%20%7C%20Data%20Analyst&descSize=24&descAlignY=60&descColor=7dd3fc" width="100%" alt="Moaaz Achraf header" />
 
-<div align="center">
-  <p>Junior BI Developer and ITI Power BI Development graduate. I turn complex data into actionable insights through end-to-end data pipelines, SQL Server data warehouses, star-schema modeling, Power BI dashboards, and Power Automate workflows.</p>
+  <a href="https://github.com/moaaz311"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=%F0%9F%93%8A+Power+BI+%7C+DAX+%7C+Power+Query;%F0%9F%97%84%EF%B8%8F+SQL+Server+%7C+SSIS+%7C+SSAS+%7C+SSRS;%E2%9A%99%EF%B8%8F+Power+Automate+%7C+Microsoft+Fabric+%7C+Azure;%F0%9F%90%8D+Python+%7C+Pandas+%7C+Machine+Learning" alt="Typing animation" /></a>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-achraf/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-five-76.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaazachraf503@gmail.com)
+  <p>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-achraf/)
+    [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-five-76.vercel.app/)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaazachraf503@gmail.com)
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaaz311)
+  </p>
 
-  <b>📍 Open to on-site opportunities in Cairo and willing to relocate across Egypt.</b>
+  <p>
+    ![📍 Open to on-site roles in Cairo](https://img.shields.io/badge/%F0%9F%93%8D%20Open%20to%20on--site%20roles%20in%20Cairo-0EA5E9?style=flat-square)
+    ![✈️ Willing to relocate across Egypt](https://img.shields.io/badge/%E2%9C%88%EF%B8%8F%20Willing%20to%20relocate%20across%20Egypt-10B981?style=flat-square)
+    ![🎓 ITI Power BI Graduate](https://img.shields.io/badge/%F0%9F%8E%93%20ITI%20Power%20BI%20Graduate-7C3AED?style=flat-square)
+  </p>
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## 👨‍💻 About Me
+
+> 💡 I turn complex data into actionable insights through end-to-end data pipelines, SQL Server data warehouses, star-schema modeling, Power BI dashboards, and Power Automate workflows.
+
+| | |
+|---|---|
+| 🎯 **Role** | Junior BI Developer · Data Analyst |
+| 🎓 **Education** | B.Sc. Computer & Artificial Intelligence, Banha University (2021 – 2025) |
+| 🏢 **Training** | Power BI Developer, ITI Intensive Training Program, 480 hrs (Jan – May 2026) |
+| 🔭 **Focus** | BI platforms, data warehousing, analytics engineering, report automation |
+| 🌐 **Languages** | 🇪🇬 Arabic (Native) · 🇬🇧 English (Very Good) |
+
+<br/>
+
+## 🛠️ Tech Stack
 
 ### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=powerquery&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat-square&logo=powerbi&logoColor=white) ![Paginated Reports](https://img.shields.io/badge/Paginated%20Reports-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 🗄️ Databases, Data Warehousing & ETL
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SSAS](https://img.shields.io/badge/SSAS-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SSRS](https://img.shields.io/badge/SSRS-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![OLAP Cubes](https://img.shields.io/badge/OLAP%20Cubes-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Star Schema](https://img.shields.io/badge/Star%20Schema-1F3864?style=flat-square&logo=databricks&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🐍 Programming & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🐍 Programming, Machine Learning & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### ☁️ Cloud & Automation
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-316D86?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ☁️ Cloud, Automation & Integration
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0F7B6C?style=flat-square&logo=powerbi&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white) ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🤝 Core Competencies
+![🧩 Problem Solving](https://img.shields.io/badge/%F0%9F%A7%A9%20Problem%20Solving-334155?style=flat-square) ![📈 Analytical Thinking](https://img.shields.io/badge/%F0%9F%93%88%20Analytical%20Thinking-334155?style=flat-square) ![🔎 Attention to Detail](https://img.shields.io/badge/%F0%9F%94%8E%20Attention%20to%20Detail-334155?style=flat-square) ![👥 Team Collaboration](https://img.shields.io/badge/%F0%9F%91%A5%20Team%20Collaboration-334155?style=flat-square) ![🧮 Data Structures & Algorithms](https://img.shields.io/badge/%F0%9F%A7%AE%20Data%20Structures%20%26%20Algorithms-334155?style=flat-square) ![🔄 Agile](https://img.shields.io/badge/%F0%9F%94%84%20Agile-334155?style=flat-square) ![🔐 Data Governance](https://img.shields.io/badge/%F0%9F%94%90%20Data%20Governance-334155?style=flat-square)
 
 <br/>
 
@@ -53,65 +59,137 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/FinalProjectAPP">🌍 Egypt EconLens</a></h3>
-      <p>End-to-end economic intelligence and supply-chain analytics platform on Azure: SQL Server star-schema warehouse with SSIS ETL, a natural-language AI Copilot that generates validated SQL and charts, embedded Power BI and paginated RDL reports, and Power Automate workflows for PDF export and subscriber alerts.</p>
-      <p><i>Python, Flask, SQL Server, SSIS, Power BI, Microsoft Fabric, Azure, Power Automate, SharePoint</i></p>
-      <p><a href="https://final-project-app-nine.vercel.app/">Live Demo</a></p>
+    <td width="50%" valign="top">
+      <h3>🌍 Egypt EconLens</h3>
+      <p><b>Economic intelligence & supply-chain analytics platform on Azure.</b></p>
+      <ul>
+        <li>🗄️ SQL Server star-schema warehouse with SSIS ETL</li>
+        <li>🤖 Natural-language AI Copilot that returns validated SQL and 4 chart types</li>
+        <li>📊 Embedded Power BI dashboards and paginated RDL reports</li>
+        <li>⚙️ Power Automate workflows for PDF export and subscriber alerts</li>
+      </ul>
+      <p>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0F7B6C?style=flat-square&logo=powerbi&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/FinalProjectAPP) [![Live Demo](https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://final-project-app-nine.vercel.app/)</p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/LaLiga-Match-Intelligence-Analytics">⚽ LaLiga Match Intelligence & Analytics</a></h3>
-      <p>Full-lifecycle football analytics platform covering 20 clubs, 380 fixtures, and 770+ player records: Python ETL with API caching, a SQL Server star schema (2 dimension and 5 fact tables), and a 5-page Power BI dashboard with head-to-head radar comparisons built with a 665-line DAX measure.</p>
-      <p><i>Python, Pandas, SQL Server, Power BI, DAX, REST APIs, HTML/SVG</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/Real-Madrid-Analysis-Season-2025-2026-LA-Liga">⚪ Real Madrid 2025-2026 Analysis</a></h3>
-      <p>Interactive dashboard on scoring efficiency, shot accuracy, home vs away form, opponent vulnerability, and disciplinary patterns across the La Liga season.</p>
-      <p><i>Tableau, Data Analysis, Sports Analytics</i></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/churn_prediction_app">🏦 Bank Customer Churn Prediction</a></h3>
-      <p>XGBoost model on 10,127 customers reaching 96.8% accuracy and 0.99 ROC-AUC, deployed as a Streamlit app with a dashboard, business-question analysis, and real-time predictions.</p>
-      <p><i>Python, XGBoost, scikit-learn, Streamlit</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/Flight_Data_Analysis_Project_PowerBI_Dashboard">✈️ Flight Delay Analysis Dashboard</a></h3>
-      <p>Power BI dashboard that cleans and models flight data as a star schema to uncover delay causes, cancellation rates, and airline, airport, and seasonal performance.</p>
-      <p><i>Power BI, Power Query, Star Schema</i></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/Business-Sales-Overview-Dashboard-Power-BI-">📊 Business Sales Overview Dashboard</a></h3>
-      <p>Sales dashboard tracking 6 KPIs (customers, orders, revenue, tax, shipping cost, net sales) on a star schema with DAX measures and interactive slicers.</p>
-      <p><i>Power BI, DAX, Power Query</i></p>
+    <td width="50%" valign="top">
+      <h3>⚽ LaLiga Match Intelligence & Analytics</h3>
+      <p><b>Full-lifecycle football analytics: API to warehouse to dashboard.</b></p>
+      <ul>
+        <li>📥 Python ETL for 380 fixtures, 20 clubs, and 770+ player records, with API caching</li>
+        <li>🗄️ SQL Server star schema: 2 dimension and 5 fact tables</li>
+        <li>📊 5-page Power BI dashboard (2560x1150)</li>
+        <li>🎯 Head-to-head radar charts from a 665-line DAX measure</li>
+      </ul>
+      <p>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/LaLiga-Match-Intelligence-Analytics)</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/SSAS_Sales_Analysis__Projects">🧊 SSAS Sales Analysis Cubes</a></h3>
-      <p>Three OLAP cubes on a star schema (FactSales with Product, Customer, Time, Channel, and Salesman dimensions) for multidimensional sales analysis.</p>
-      <p><i>SQL Server, SSAS, OLAP</i></p>
+    <td width="50%" valign="top">
+      <h3>⚪ Real Madrid 2025–2026 Analysis</h3>
+      <p><b>Season performance dashboard.</b></p>
+      <ul>
+        <li>⚽ Scoring efficiency and shot accuracy</li>
+        <li>🏟️ Home vs away form</li>
+        <li>🎯 Opponent vulnerability analysis</li>
+        <li>🟨 Disciplinary patterns</li>
+      </ul>
+      <p>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/Real-Madrid-Analysis-Season-2025-2026-LA-Liga)</p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/moaaz311/UK-Bank-Customers-Segmentation-Dashboard-Tableau-">🏦 UK Bank Customers Segmentation</a></h3>
-      <p>Tableau dashboard segmenting customers by region, gender, job, age, and balance, with a region map filter and parameter-controlled dynamic bins.</p>
-      <p><i>Tableau, Calculated Fields, Parameters</i></p>
+    <td width="50%" valign="top">
+      <h3>🏦 Bank Customer Churn Prediction</h3>
+      <p><b>Machine learning model with a live prediction app.</b></p>
+      <ul>
+        <li>🤖 XGBoost on 10,127 customers</li>
+        <li>✅ 96.8% accuracy · 90.1% F1 · 0.99 ROC-AUC</li>
+        <li>🔎 EDA across 23 attributes to find churn drivers</li>
+        <li>💻 Streamlit app with real-time predictions</li>
+      </ul>
+      <p>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/churn_prediction_app)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ Flight Delay Analysis Dashboard</h3>
+      <p><b>Delays, cancellations, and airline performance.</b></p>
+      <ul>
+        <li>🧹 Data cleaning in Power Query</li>
+        <li>⭐ Star schema data model</li>
+        <li>⏱️ Delay and cancellation-rate KPIs</li>
+        <li>🔀 Airline, airport, and date filters</li>
+      </ul>
+      <p>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat-square&logo=powerbi&logoColor=white) ![Star Schema](https://img.shields.io/badge/Star%20Schema-1F3864?style=flat-square&logo=databricks&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/Flight_Data_Analysis_Project_PowerBI_Dashboard)</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Business Sales Overview Dashboard</h3>
+      <p><b>Sales performance across product, region, and time.</b></p>
+      <ul>
+        <li>📌 6 KPIs: customers, orders, revenue, tax, shipping, net sales</li>
+        <li>⭐ Star schema: 1 fact and 5 dimension tables</li>
+        <li>🧮 DAX measures and interactive slicers</li>
+        <li>💡 Insight: Bikes drive the highest revenue</li>
+      </ul>
+      <p>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat-square&logo=powerbi&logoColor=white) ![Star Schema](https://img.shields.io/badge/Star%20Schema-1F3864?style=flat-square&logo=databricks&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/Business-Sales-Overview-Dashboard-Power-BI-)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧊 SSAS Sales Analysis Cubes</h3>
+      <p><b>Multidimensional sales analytics.</b></p>
+      <ul>
+        <li>🧊 3 OLAP cubes in SQL Server Analysis Services</li>
+        <li>⭐ FactSales with 5 dimensions</li>
+        <li>📅 Year and Quarter time hierarchy</li>
+      </ul>
+      <p>![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SSAS](https://img.shields.io/badge/SSAS-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![OLAP Cubes](https://img.shields.io/badge/OLAP%20Cubes-5C2D91?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Star Schema](https://img.shields.io/badge/Star%20Schema-1F3864?style=flat-square&logo=databricks&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/SSAS_Sales_Analysis__Projects)</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 UK Bank Customers Segmentation</h3>
+      <p><b>Interactive customer segmentation dashboard.</b></p>
+      <ul>
+        <li>🗺️ Region map that filters every chart</li>
+        <li>👥 Gender, job classification, age, and balance views</li>
+        <li>🎚️ Parameter-controlled dynamic bins</li>
+      </ul>
+      <p>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)</p>
+      <p>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moaaz311/UK-Bank-Customers-Segmentation-Dashboard-Tableau-)</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🎓 Education & Training
+## 📈 GitHub Stats
 
-- **Power BI Developer, Intensive Training Program (480 hrs)** – Information Technology Institute (ITI), Jan 2026 – May 2026
-- **B.Sc. in Computer and Artificial Intelligence** – Banha University, 2021 – 2025
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moaaz311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaaz311&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
 <br/>
 
+## 🎓 Education & Training
+
+| | |
+|---|---|
+| 🏢 **Power BI Developer, Intensive Training Program (480 hrs)** | Information Technology Institute (ITI) · Jan 2026 – May 2026 |
+| 🎓 **B.Sc. in Computer and Artificial Intelligence** | Banha University · 2021 – 2025 |
+
+<br/>
+
+## 📫 Let's Connect
+
 <div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaaz-achraf/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaazachraf503@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-five-76.vercel.app/)
+
   <i>Always learning and looking for the next data challenge! 🚀</i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer" />
